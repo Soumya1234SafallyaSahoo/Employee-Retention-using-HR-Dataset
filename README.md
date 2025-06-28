@@ -1,4 +1,4 @@
-
+![image_alt](https://github.com/Soumya1234SafallyaSahoo/Employee-Retention-using-HR-Dataset/blob/fb34320b113322e4d6074d459512f2e80b9cbf52/Empretentionimg.png)
 
 Employee Retention Prediction using Machine Learning
 🔍 Project Overview
